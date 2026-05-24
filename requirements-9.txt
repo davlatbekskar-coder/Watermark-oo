@@ -1,0 +1,7 @@
+aiogram
+yt-dlp
+deep-translator
+qrcode[pil]
+gtts
+Pillow
+aiohttp
